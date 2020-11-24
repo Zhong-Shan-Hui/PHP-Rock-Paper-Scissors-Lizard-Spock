@@ -1,3 +1,3 @@
 # php-game
 
-A web application to play rock, paper, scissors with computer which will only allow logged in users to play the game.
+A simple web application to play rock, paper, scissors with computer which will only allows logged in user to play the game.
