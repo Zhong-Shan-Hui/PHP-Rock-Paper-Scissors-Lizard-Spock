@@ -2,7 +2,7 @@
 
 Rock, Paper, Scissors, Lizard, Spock is an extension of the classic game of chance, Rock, Paper, Scissors.
 
-# Rules:
+# Rules of the game:
 ```
 Scissors cuts Paper
 Paper covers Rock
