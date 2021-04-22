@@ -1,3 +1,17 @@
-# PHP_Rock_Paper_Scissors
+# PHP-Rock-Paper-Scissors-Lizard-Spock
 
-A simple web application to play rock, paper, scissors with computer which will only allows logged in user to play the game.
+Rock, Paper, Scissors, Lizard, Spock is an extension of the classic game of chance, Rock, Paper, Scissors.
+
+# Rules:
+```
+Scissors cuts Paper
+Paper covers Rock
+Rock crushes Lizard
+Lizard poisons Spock
+Spock smashes Scissors
+Scissors decapitates Lizard
+Lizard eats Paper
+Paper disproves Spock
+Spock vaporizes Rock
+(and as it always has) Rock crushes Scissors
+```
